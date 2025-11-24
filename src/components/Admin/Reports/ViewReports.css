@@ -1,0 +1,52 @@
+.view-reports {
+  padding: 2rem;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.view-reports h2 {
+  color: #1a237e;
+  margin-bottom: 1.5rem;
+}
+
+.report-filters {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  align-items: center;
+}
+
+.report-filters select,
+.report-filters input {
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.report-filters button {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  background: #1a237e;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.report-filters button:hover {
+  background: #283593;
+  transform: translateY(-2px);
+}
+
+.report-content {
+  background: #f5f5f5;
+  padding: 1.5rem;
+  border-radius: 4px;
+}
+
+.report-content h3 {
+  color: #333;
+  margin-bottom: 1rem;
+} 
