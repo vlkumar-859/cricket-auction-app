@@ -1,7 +1,7 @@
 # cricket-auction
 This is an application for online cricket auction system
 
-This has 2 more branches one UI code and another for Backend Code
+This has 2 more branches one for UI code and another for Backend Code
 
 # UI
 1. yarn install & yarn start
